@@ -1,2 +1,3 @@
-# AI-Sales_Agent
-A curated portfolio of traditional and AI-powered product management projects showcasing product strategy, execution, and applied AI innovation.
+# AI-Sales-Agent
+An AI powered Sales Agent that automates lead qualification, priority routing, CRM updates, personalized notifications, and real time sales analytics using AI and workflow automation.
+
